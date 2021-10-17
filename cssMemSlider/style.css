@@ -18,7 +18,6 @@ body {
 #slides .image {
   /*устанавливает общий размер блока с изображениями*/
   width: 500%;
-  line-height: 0;
 }
 
 #overflow {
